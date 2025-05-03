@@ -1,0 +1,26 @@
+{
+  "name": "pupeeter_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirti136/pupeeter_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kirti136/pupeeter_assignment/issues"
+  },
+  "homepage": "https://github.com/kirti136/pupeeter_assignment#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "puppeteer": "^24.8.0"
+  }
+}
